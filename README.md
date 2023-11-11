@@ -60,4 +60,3 @@ $ npm run test:cov
 ## License
 
 Nest is [MIT licensed](LICENSE).
-# online-examination-system-client
